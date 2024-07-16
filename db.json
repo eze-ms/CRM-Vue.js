@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "id": "3b95",
+      "nombre": "Carlos -Actualizado-",
+      "apellido": "Peña 2",
+      "email": "macchi_eo@hotmail.com",
+      "phone": "123-456-7899",
+      "company": "Huge inc",
+      "position": "Front-end Developer e Instructor 2",
+      "estado": true
+    },
+    {
+      "id": "896f",
+      "nombre": "Otro Cliente2",
+      "apellido": "Peña 2",
+      "email": "ezequiel@ezequiel.com",
+      "phone": "123-456-7899",
+      "company": "Huge",
+      "position": "Front-end Developer e Instructor",
+      "estado": true
+    }
+  ]
+}
